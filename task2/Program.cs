@@ -7,7 +7,7 @@ long b1 = 6;
 long sum2 = a1+b1;
 Console.WriteLine(sum2);
 
-double c=5.5;
+double c=5;
 double sum3 = c+a1;
 Console.WriteLine(sum3);
 
@@ -24,3 +24,10 @@ Console.WriteLine(quotion);
 double d1 = 6;
 double quotion2 = a1 / d1;
 Console.WriteLine(quotion2);
+
+
+double product4 = a1 * a2;
+double sum4 = c + d1;
+double quotion3 = product4 / sum4;
+Console.WriteLine(quotion3);
+
