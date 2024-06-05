@@ -1,0 +1,14 @@
+C:\les1\task1\bin\Debug\net8.0\task1.exe
+C:\les1\task1\bin\Debug\net8.0\task1.deps.json
+C:\les1\task1\bin\Debug\net8.0\task1.runtimeconfig.json
+C:\les1\task1\bin\Debug\net8.0\task1.dll
+C:\les1\task1\bin\Debug\net8.0\task1.pdb
+C:\les1\task1\obj\Debug\net8.0\task1.GeneratedMSBuildEditorConfig.editorconfig
+C:\les1\task1\obj\Debug\net8.0\task1.AssemblyInfoInputs.cache
+C:\les1\task1\obj\Debug\net8.0\task1.AssemblyInfo.cs
+C:\les1\task1\obj\Debug\net8.0\task1.csproj.CoreCompileInputs.cache
+C:\les1\task1\obj\Debug\net8.0\task1.dll
+C:\les1\task1\obj\Debug\net8.0\refint\task1.dll
+C:\les1\task1\obj\Debug\net8.0\task1.pdb
+C:\les1\task1\obj\Debug\net8.0\task1.genruntimeconfig.cache
+C:\les1\task1\obj\Debug\net8.0\ref\task1.dll
